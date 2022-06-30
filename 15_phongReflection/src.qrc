@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/textureBack.png</file>
+        <file>img/textureFront.png</file>
+        <file>img/textureLeft.png</file>
+        <file>img/textureRight.png</file>
+        <file>img/textureTop.png</file>
+        <file>img/textureBottom.png</file>
+    </qresource>
+</RCC>
