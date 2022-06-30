@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/island.jpg</file>
+        <file>img/minecraft.jpg</file>
+        <file>img/winter.jpg</file>
+        <file>img/blank.jpg</file>
+        <file>img/bliss.jpg</file>
+        <file>img/sunset.jpg</file>
+    </qresource>
+</RCC>
